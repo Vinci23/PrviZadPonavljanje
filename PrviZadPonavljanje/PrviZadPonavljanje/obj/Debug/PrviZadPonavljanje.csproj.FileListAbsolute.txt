@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\bin\Debug\PrviZadPonavljanje.exe.config
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\bin\Debug\PrviZadPonavljanje.exe
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\bin\Debug\PrviZadPonavljanje.pdb
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\obj\Debug\PrviZadPonavljanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\obj\Debug\PrviZadPonavljanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\obj\Debug\PrviZadPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\obj\Debug\PrviZadPonavljanje.exe
+C:\Users\ucenik\Desktop\PrviZadPonavljanje\PrviZadPonavljanje\obj\Debug\PrviZadPonavljanje.pdb
